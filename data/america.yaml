@@ -471,3 +471,10 @@
    link: https://www.metamorphsoftware.com/
    address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
    description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex systems.
+ - name: Escola Politecnica da UFBA
+   type: School
+   lat: -12.999588
+   long: -38.510218
+   link: http://www.eng.ufba.br/
+   address: Rua Prof. Aristides Novis, 02, Federação, Salvador-BA, Brasil, 40210-630
+   description: Institute that offer engineering courses for the Federal University of Bahia (UFBA).
